@@ -1,0 +1,681 @@
+[
+  {
+    "chapterNumber": 1,
+    "titleVi": "CHƯƠNG 1: ĐỘNG VẬT SỐNG",
+    "titleEn": "CHAPTER 1: LIVE ANIMALS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 2,
+    "titleVi": "CHƯƠNG 2: THỊT VÀ PHỤ PHẨM DẠNG THỊT ĂN ĐƯỢC SAU GIẾT MỔ",
+    "titleEn": "CHAPTER 2: MEAT AND EDIBLE MEAT OFFAL",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 3,
+    "titleVi": "CHƯƠNG 3: CÁ VÀ ĐỘNG VẬT GIÁP XÁC, ĐỘNG VẬT THÂN MỀM VÀ ĐỘNG VẬT THUỶ SINH KHÔNG XƯƠNG SỐNG KHÁC",
+    "titleEn": "CHAPTER 3: FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 4,
+    "titleVi": "CHƯƠNG 4: SẢN PHẨM BƠ SỮA; TRỨNG CHIM VÀ TRỨNG GIA CẦM; MẬT ONG TỰ NHIÊN; SẢN PHẨM ĂN ĐƯỢC GỐC ĐỘNG VẬT, CHƯA ĐƯỢC CHI TIẾT HOẶC GHI Ở NƠI KHÁC",
+    "titleEn": "CHAPTER 4: DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 5,
+    "titleVi": "CHƯƠNG 5: SẢN PHẨM GỐC ĐỘNG VẬT, CHƯA ĐƯỢC CHI TIẾT HOẶC GHI Ở CÁC NƠI KHÁC",
+    "titleEn": "CHAPTER 5: PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 6,
+    "titleVi": "CHƯƠNG 6: CÂY SỐNG VÀ CÁC LOẠI CÂY TRỒNG KHÁC; CỦ, RỄ VÀ LOẠI TƯƠNG TỰ; CÀNH HOA VÀ CÀNH LÁ TRANG TRÍ",
+    "titleEn": "CHAPTER 6: LIVE TREES AND OTHER PLANTS; BULBS, ROOTS AND THE LIKE; CUT FLOWERS AND ORNAMENTAL FOLIAGE",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 7,
+    "titleVi": "CHƯƠNG 7: RAU VÀ MỘT SỐ LOẠI CỦ, THÂN CỦ VÀ RỄ ĂN ĐƯỢC",
+    "titleEn": "CHAPTER 7: EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 8,
+    "titleVi": "CHƯƠNG 8: QUẢ VÀ QUẢ HẠCH (NUT) ĂN ĐƯỢC; VỎ QUẢ THUỘC HỌ CAM QUÝT HOẶC CÁC LOẠI DƯA",
+    "titleEn": "CHAPTER 8: EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 9,
+    "titleVi": "CHƯƠNG 9: CÀ PHÊ, CHÈ, CHÈ PARAGOAY VÀ CÁC LOẠI GIA VỊ",
+    "titleEn": "CHAPTER 9: COFFEE, TEA, MATÉ AND SPICES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 10,
+    "titleVi": "CHƯƠNG 10: NGŨ CỐC",
+    "titleEn": "CHAPTER 10: CEREALS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 11,
+    "titleVi": "CHƯƠNG 11: CÁC SẢN PHẨM XAY XÁT; MALT; TINH BỘT; INULIN; GLUTEN LÚA MÌ",
+    "titleEn": "CHAPTER 11: PRODUCTS OF THE MILLING INDUSTRY; MALT; STARCHES; INULIN; WHEAT GLUTEN",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 12,
+    "titleVi": "CHƯƠNG 12: HẠT DẦU VÀ QUẢ CÓ DẦU; CÁC LOẠI HẠT, HẠT GIỐNG VÀ QUẢ KHÁC; CÂY CÔNG NGHIỆP HOẶC CÂY DƯỢC LIỆU; RƠM, RẠ VÀ CỎ KHÔ",
+    "titleEn": "CHAPTER 12: OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 13,
+    "titleVi": "CHƯƠNG 13: NHỰA CÁNH KIẾN ĐỎ; GÔM, NHỰA CÂY, CÁC CHẤT NHỰA VÀ CÁC CHẤT CHIẾT XUẤT TỪ THỰC VẬT KHÁC",
+    "titleEn": "CHAPTER 13: LAC; GUMS, RESINS AND OTHER VEGETABLE SAPS AND EXTRACTS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 14,
+    "titleVi": "CHƯƠNG 14: VẬT LIỆU THỰC VẬT DÙNG ĐỂ TẾT BỆN; CÁC SẢN PHẨM THỰC VẬT CHƯA ĐƯỢC CHI TIẾT HOẶC GHI Ở NƠI KHÁC",
+    "titleEn": "CHAPTER 14: VEGETABLE PLAITING MATERIALS; VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 15,
+    "titleVi": "CHƯƠNG 15: CHẤT BÉO VÀ DẦU CÓ NGUỒN GỐC TỪ ĐỘNG VẬT, THỰC VẬT HOẶC VI SINH VẬT VÀ CÁC SẢN PHẨM TÁCH TỪ CHÚNG; CHẤT BÉO ĂN ĐƯỢC ĐÃ CHẾ BIẾN; CÁC LOẠI SÁP ĐỘNG VẬT HOẶC THỰC VẬT",
+    "titleEn": "CHAPTER 15: ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 16,
+    "titleVi": "CHƯƠNG 16: CÁC CHẾ PHẨM TỪ THỊT, CÁ, ĐỘNG VẬT GIÁP XÁC, ĐỘNG VẬT THÂN MỀM HOẶC ĐỘNG VẬT THUỶ SINH KHÔNG XƯƠNG SỐNG KHÁC, HOẶC TỪ CÔN TRÙNG",
+    "titleEn": "CHAPTER 16: PREPARATIONS OF MEAT, OF FISH, OF CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES, OR OF INSECTS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 17,
+    "titleVi": "CHƯƠNG 17: ĐƯỜNG VÀ CÁC LOẠI KẸO ĐƯỜNG",
+    "titleEn": "CHAPTER 17: SUGARS AND SUGAR CONFECTIONERY",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 18,
+    "titleVi": "CHƯƠNG 18: CA CAO VÀ CÁC CHẾ PHẨM TỪ CA CAO",
+    "titleEn": "CHAPTER 18: COCOA AND COCOA PREPARATIONS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 19,
+    "titleVi": "CHƯƠNG 19: CHẾ PHẨM TỪ NGŨ CỐC, BỘT, TINH BỘT HOẶC SỮA; CÁC LOẠI BÁNH",
+    "titleEn": "CHAPTER 19: PREPARATIONS OF CEREALS, FLOUR, STARCH OR MILK; PASTRYCOOKS’ PRODUCTS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 20,
+    "titleVi": "CHƯƠNG 20: CÁC CHẾ PHẨM TỪ RAU, QUẢ, QUẢ HẠCH (NUT) HOẶC CÁC PHẦN KHÁC CỦA CÂY",
+    "titleEn": "CHAPTER 20: PREPARATIONS OF VEGETABLES, FRUIT, NUTS OR OTHER PARTS OF PLANTS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 21,
+    "titleVi": "CHƯƠNG 21: CÁC CHẾ PHẨM ĂN ĐƯỢC KHÁC",
+    "titleEn": "CHAPTER 21: MISCELLANEOUS EDIBLE PREPARATIONS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 22,
+    "titleVi": "CHƯƠNG 22: ĐỒ UỐNG, RƯỢU VÀ GIẤM",
+    "titleEn": "CHAPTER 22: BEVERAGES, SPIRITS AND VINEGAR",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 23,
+    "titleVi": "CHƯƠNG 23: PHẾ LIỆU VÀ PHẾ THẢI TỪ NGÀNH CÔNG NGHIỆP THỰC PHẨM; THỨC ĂN GIA SÚC ĐÃ CHẾ BIẾN",
+    "titleEn": "CHAPTER 23: RESIDUES AND WASTE FROM THE FOOD INDUSTRIES; PREPARED ANIMAL FODDER",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 24,
+    "titleVi": "CHƯƠNG 24: THUỐC LÁ VÀ NGUYÊN LIỆU THAY THẾ THUỐC LÁ ĐÃ CHẾ BIẾN; CÁC SẢN PHẨM CHỨA HOẶC KHÔNG CHỨA NICOTIN, DÙNG ĐỂ HÚT MÀ KHÔNG CẦN ĐỐT CHÁY; CÁC SẢN PHẨM CHỨA NICOTIN KHÁC DÙNG ĐỂ NẠP NICOTIN VÀO CƠ THỂ CON NGƯỜI",
+    "titleEn": "CHAPTER 24: TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES; PRODUCTS, WHETHER OR NOT CONTAINING NICOTINE, INTENDED FOR INHALATION WITHOUT COMBUSTION; OTHER NICOTINE CONTAINING PRODUCTS INTENDED FOR THE INTAKE OF NICOTINE INTO THE HUMAN BODY",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 25,
+    "titleVi": "CHƯƠNG 25: MUỐI; LƯU HUỲNH; ĐẤT VÀ ĐÁ; THẠCH CAO, VÔI VÀ XI MĂNG",
+    "titleEn": "CHAPTER 25: SALT; SULPHUR; EARTHS AND STONE; PLASTERING MATERIALS, LIME AND CEMENT",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 26,
+    "titleVi": "CHƯƠNG 26: QUẶNG, XỈ VÀ TRO",
+    "titleEn": "CHAPTER 26: ORES, SLAG AND ASH",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 27,
+    "titleVi": "CHƯƠNG 27: NHIÊN LIỆU KHOÁNG, DẦU KHOÁNG VÀ CÁC SẢN PHẨM CHƯNG CẤT TỪ CHÚNG; CÁC CHẤT CHỨA BI-TUM; CÁC LOẠI SÁP KHOÁNG CHẤT",
+    "titleEn": "CHAPTER 27: MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 28,
+    "titleVi": "CHƯƠNG 28: HÓA CHẤT VÔ CƠ; CÁC HỢP CHẤT VÔ CƠ HOẶC HỮU CƠ CỦA KIM LOẠI QUÝ, KIM LOẠI ĐẤT HIẾM, CÁC NGUYÊN TỐ PHÓNG XẠ HOẶC CÁC CHẤT ĐỒNG VỊ",
+    "titleEn": "CHAPTER 28: INORGANIC CHEMICALS; ORGANIC OR INORGANIC COMPOUNDS OF PRECIOUS METALS, OF RARE-EARTH METALS, OF RADIOACTIVE ELEMENTS OR OF ISOTOPES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 29,
+    "titleVi": "CHƯƠNG 29: HÓA CHẤT HỮU CƠ",
+    "titleEn": "CHAPTER 29: ORGANIC CHEMICALS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 30,
+    "titleVi": "CHƯƠNG 30: DƯỢC PHẨM",
+    "titleEn": "CHAPTER 30: PHARMACEUTICAL PRODUCTS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 31,
+    "titleVi": "CHƯƠNG 31: PHÂN BÓN",
+    "titleEn": "CHAPTER 31: FERTILISERS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 32,
+    "titleVi": "CHƯƠNG 32: CÁC CHẤT CHIẾT XUẤT LÀM THUỐC NHUỘM HOẶC THUỘC DA; TA NANH VÀ CÁC CHẤT DẪN XUẤT CỦA CHÚNG; THUỐC NHUỘM, THUỐC MÀU VÀ CÁC CHẤT MÀU KHÁC; SƠN VÀ VÉC NI; CHẤT GẮN VÀ CÁC LOẠI MA TÍT KHÁC; CÁC LOẠI MỰC",
+    "titleEn": "CHAPTER 32: TANNING OR DYEING EXTRACTS; TANNINS AND THEIR DERIVATIVES; DYES, PIGMENTS AND OTHER COLOURING MATTER; PAINTS AND VARNISHES; PUTTY AND OTHER MASTICS; INKS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 33,
+    "titleVi": "CHƯƠNG 33: TINH DẦU VÀ CÁC CHẤT TỰA NHỰA; NƯỚC HOA, MỸ PHẨM HOẶC CÁC CHẾ PHẨM DÙNG CHO VỆ SINH",
+    "titleEn": "CHAPTER 33: ESSENTIAL OILS AND RESINOIDS; PERFUMERY, COSMETIC OR TOILET PREPARATIONS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 34,
+    "titleVi": "CHƯƠNG 34: XÀ PHÒNG, CÁC CHẤT HỮU CƠ HOẠT ĐỘNG BỀ MẶT, CÁC CHẾ PHẨM DÙNG ĐỂ GIẶT, RỬA, CÁC CHẾ PHẨM BÔI TRƠN, CÁC LOẠI SÁP NHÂN TẠO, SÁP ĐÃ ĐƯỢC CHẾ BIẾN, CÁC CHẾ PHẨM DÙNG ĐỂ ĐÁNH BÓNG HOẶC TẨY SẠCH, NẾN VÀ CÁC SẢN PHẨM TƯƠNG TỰ, BỘT NHÃO DÙNG LÀM HÌNH MẪU, “SÁP DÙNG TRONG NHA KHOA” VÀ CÁC CHẾ PHẨM DÙNG TRONG NHA KHOA CÓ THÀNH PHẦN CƠ BẢN LÀ THẠCH CAO",
+    "titleEn": "CHAPTER 34: SOAP, ORGANIC SURFACE-ACTIVE AGENTS, WASHING PREPARATIONS, LUBRICATING PREPARATIONS, ARTIFICIAL WAXES, PREPARED WAXES, POLISHING OR SCOURING PREPARATIONS, CANDLES AND SIMILAR ARTICLES, MODELLING PASTES, “DENTAL WAXES” AND DENTAL PREPARATIONS WITH A BASIS OF PLASTER",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 35,
+    "titleVi": "CHƯƠNG 35: CÁC CHẤT CHỨA ALBUMIN; CÁC DẠNG TINH BỘT BIẾN TÍNH; KEO HỒ; ENZYM",
+    "titleEn": "CHAPTER 35: ALBUMINOIDAL SUBSTANCES; MODIFIED STARCHES; GLUES; ENZYMES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 36,
+    "titleVi": "CHƯƠNG 36: CHẤT NỔ; CÁC SẢN PHẨM PHÁO; DIÊM; CÁC HỢP KIM TỰ CHÁY; CÁC CHẾ PHẨM DỄ CHÁY KHÁC",
+    "titleEn": "CHAPTER 36: EXPLOSIVES; PYROTECHNIC PRODUCTS; MATCHES; PYROPHORIC ALLOYS; CERTAIN COMBUSTIBLE PREPARATIONS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 37,
+    "titleVi": "CHƯƠNG 37: VẬT LIỆU ẢNH HOẶC ĐIỆN ẢNH",
+    "titleEn": "CHAPTER 37: PHOTOGRAPHIC OR CINEMATOGRAPHIC GOODS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 38,
+    "titleVi": "CHƯƠNG 38: CÁC SẢN PHẨM HÓA CHẤT KHÁC",
+    "titleEn": "CHAPTER 38: MISCELLANEOUS CHEMICAL PRODUCTS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 39,
+    "titleVi": "CHƯƠNG 39: PLASTIC VÀ CÁC SẢN PHẨM BẰNG PLASTIC",
+    "titleEn": "CHAPTER 39: PLASTICS AND ARTICLES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 40,
+    "titleVi": "CHƯƠNG 40: CAO SU VÀ CÁC SẢN PHẨM BẰNG CAO SU",
+    "titleEn": "CHAPTER 40: RUBBER AND ARTICLES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 41,
+    "titleVi": "CHƯƠNG 41: DA SỐNG (TRỪ DA LÔNG) VÀ DA THUỘC",
+    "titleEn": "CHAPTER 41: RAW HIDES AND SKINS (OTHER THAN FURSKINS) AND LEATHER",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 42,
+    "titleVi": "CHƯƠNG 42: CÁC SẢN PHẨM BẰNG DA THUỘC; YÊN CƯƠNG VÀ BỘ ĐỒ YÊN CƯƠNG; CÁC MẶT HÀNG DU LỊCH, TÚI XÁCH VÀ CÁC LOẠI ĐỒ CHỨA TƯƠNG TỰ; CÁC SẢN PHẨM LÀM TỪ RUỘT ĐỘNG VẬT (TRỪ RUỘT CON TẰM)",
+    "titleEn": "CHAPTER 42: ARTICLES OF LEATHER; SADDLERY AND HARNESS; TRAVEL GOODS, HANDBAGS AND SIMILAR CONTAINERS; ARTICLES OF ANIMAL GUT (OTHER THAN SILK-WORM GUT)",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 43,
+    "titleVi": "CHƯƠNG 43: DA LÔNG VÀ DA LÔNG NHÂN TẠO; CÁC SẢN PHẨM LÀM TỪ DA LÔNG VÀ DA LÔNG NHÂN TẠO",
+    "titleEn": "CHAPTER 43: FURSKINS AND ARTIFICIAL FUR; MANUFACTURES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 44,
+    "titleVi": "CHƯƠNG 44: GỖ VÀ CÁC MẶT HÀNG BẰNG GỖ; THAN TỪ GỖ",
+    "titleEn": "CHAPTER 44: WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 45,
+    "titleVi": "CHƯƠNG 45: LIE VÀ CÁC SẢN PHẨM BẰNG LIE",
+    "titleEn": "CHAPTER 45: CORK AND ARTICLES OF CORK",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 46,
+    "titleVi": "CHƯƠNG 46: SẢN PHẨM LÀM TỪ RƠM, CỎ GIẤY HOẶC TỪ CÁC LOẠI VẬT LIỆU TẾT BỆN KHÁC; CÁC SẢN PHẨM BẰNG LIỄU GAI VÀ SONG MÂY",
+    "titleEn": "CHAPTER 46: MANUFACTURES OF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 47,
+    "titleVi": "CHƯƠNG 47: BỘT GIẤY TỪ GỖ HOẶC TỪ NGUYÊN LIỆU XƠ SỢI XENLULO KHÁC; GIẤY LOẠI HOẶC BÌA LOẠI THU HỒI (PHẾ LIỆU VÀ VỤN THỪA)",
+    "titleEn": "CHAPTER 47: PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 48,
+    "titleVi": "CHƯƠNG 48: GIẤY VÀ BÌA; CÁC SẢN PHẨM LÀM BẰNG BỘT GIẤY, BẰNG GIẤY HOẶC BẰNG BÌA",
+    "titleEn": "CHAPTER 48: PAPER AND PAPERBOARD; ARTICLES OF PAPER PULP, OF PAPER OR OF PAPERBOARD",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 49,
+    "titleVi": "CHƯƠNG 49: SÁCH, BÁO, TRANH ẢNH VÀ CÁC SẢN PHẨM KHÁC CỦA CÔNG NGHIỆP IN; CÁC LOẠI BẢN THẢO VIẾT BẰNG TAY, ĐÁNH MÁY VÀ SƠ ĐỒ",
+    "titleEn": "CHAPTER 49: PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRODUCTS OF THE PRINTING INDUSTRY; MANUSCRIPTS, TYPESCRIPTS AND PLANS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 50,
+    "titleVi": "CHƯƠNG 50: TƠ TẰM",
+    "titleEn": "CHAPTER 50: SILK",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 51,
+    "titleVi": "CHƯƠNG 51: LÔNG CỪU, LÔNG ĐỘNG VẬT LOẠI MỊN HOẶC LOẠI THÔ; SỢI TỪ LÔNG ĐUÔI HOẶC BỜM NGỰA VÀ VẢI DỆT THOI TỪ CÁC NGUYÊN LIỆU TRÊN",
+    "titleEn": "CHAPTER 51: WOOL, FINE OR COARSE ANIMAL HAIR; HORSEHAIR YARN AND WOVEN FABRIC",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 52,
+    "titleVi": "CHƯƠNG 52: BÔNG",
+    "titleEn": "CHAPTER 52: COTTON",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 53,
+    "titleVi": "CHƯƠNG 53: XƠ DỆT GỐC THỰC VẬT KHÁC; SỢI GIẤY VÀ VẢI DỆT THOI TỪ SỢI GIẤY",
+    "titleEn": "CHAPTER 53: OTHER VEGETABLE TEXTILE FIBRES; PAPER YARN AND WOVEN FABRICS OF PAPER YARN",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 54,
+    "titleVi": "CHƯƠNG 54: SỢI FILAMENT NHÂN TẠO; DẢI VÀ CÁC DẠNG TƯƠNG TỰ TỪ NGUYÊN LIỆU DỆT NHÂN TẠO",
+    "titleEn": "CHAPTER 54: MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 55,
+    "titleVi": "CHƯƠNG 55: XƠ SỢI STAPLE NHÂN TẠO",
+    "titleEn": "CHAPTER 55: MAN-MADE STAPLE FIBRES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 56,
+    "titleVi": "CHƯƠNG 56: MỀN XƠ, PHỚT VÀ CÁC SẢN PHẨM KHÔNG DỆT; CÁC LOẠI SỢI ĐẶC BIỆT; SỢI XE, CHÃO BỆN (CORDAGE), THỪNG VÀ CÁP VÀ CÁC SẢN PHẨM CỦA CHÚNG",
+    "titleEn": "CHAPTER 56: WADDING, FELT AND NONWOVENS; SPECIAL YARNS; TWINE, CORDAGE, ROPES AND CABLES AND ARTICLES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 57,
+    "titleVi": "CHƯƠNG 57: THẢM VÀ CÁC LOẠI HÀNG DỆT TRẢI SÀN KHÁC",
+    "titleEn": "CHAPTER 57: CARPETS AND OTHER TEXTILE FLOOR COVERINGS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 58,
+    "titleVi": "CHƯƠNG 58: CÁC LOẠI VẢI DỆT THOI ĐẶC BIỆT; CÁC LOẠI VẢI DỆT KIM; HÀNG REN; THẢM TRANG TRÍ; HÀNG TRANG TRÍ; HÀNG THÊU",
+    "titleEn": "CHAPTER 58: SPECIAL WOVEN FABRICS; TUFTED TEXTILE FABRICS; LACE; TAPESTRIES; TRIMMINGS; EMBROIDERY",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 59,
+    "titleVi": "CHƯƠNG 59: CÁC LOẠI VẢI DỆT ĐÃ ĐƯỢC NGÂM TẨM, TRÁNG, PHỦ HOẶC ÉP LỚP; CÁC MẶT HÀNG DỆT THÍCH HỢP DÙNG TRONG CÔNG NGHIỆP",
+    "titleEn": "CHAPTER 59: IMPREGNATED, COATED, COVERED OR LAMINATED TEXTILE FABRICS; TEXTILE ARTICLES OF A KIND SUITABLE FOR INDUSTRIAL USE",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 60,
+    "titleVi": "CHƯƠNG 60: CÁC LOẠI HÀNG DỆT KIM HOẶC MÓC",
+    "titleEn": "CHAPTER 60: KNITTED OR CROCHETED FABRICS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 61,
+    "titleVi": "CHƯƠNG 61: QUẦN ÁO VÀ HÀNG MAY MẶC PHỤ TRỢ, DỆT KIM HOẶC MÓC",
+    "titleEn": "CHAPTER 61: ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 62,
+    "titleVi": "CHƯƠNG 62: QUẦN ÁO VÀ HÀNG MAY MẶC PHỤ TRỢ, KHÔNG DỆT KIM HOẶC MÓC",
+    "titleEn": "CHAPTER 62: ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, NOT KNITTED OR CROCHETED",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 63,
+    "titleVi": "CHƯƠNG 63: CÁC MẶT HÀNG DỆT ĐÃ HOÀN THIỆN KHÁC; BỘ VẢI; QUẦN ÁO DỆT CŨ VÀ CÁC LOẠI HÀNG DỆT CŨ KHÁC; VẢI VỤN",
+    "titleEn": "CHAPTER 63: OTHER MADE UP TEXTILE ARTICLES; SETS; WORN CLOTHING AND WORN TEXTILE ARTICLES; RAGS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 64,
+    "titleVi": "CHƯƠNG 64: GIÀY, DÉP, GHỆT VÀ CÁC SẢN PHẨM TƯƠNG TỰ; CÁC BỘ PHẬN CỦA CÁC SẢN PHẨM TRÊN",
+    "titleEn": "CHAPTER 64: FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 65,
+    "titleVi": "CHƯƠNG 65: MŨ VÀ CÁC VẬT ĐỘI ĐẦU KHÁC VÀ CÁC BỘ PHẬN CỦA CHÚNG",
+    "titleEn": "CHAPTER 65: HEADGEAR AND PARTS THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 66,
+    "titleVi": "CHƯƠNG 66: Ô, DÙ CHE, BA TOONG, GẬY TAY CẦM CÓ THỂ CHUYỂN THÀNH GHẾ, ROI, GẬY ĐIỀU KHIỂN, ROI ĐIỀU KHIỂN SÚC VẬT THỒ KÉO VÀ CÁC BỘ PHẬN CỦA CÁC SẢN PHẨM TRÊN",
+    "titleEn": "CHAPTER 66: UMBRELLAS, SUN UMBRELLAS, WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 67,
+    "titleVi": "CHƯƠNG 67: LÔNG VŨ VÀ LÔNG TƠ CHẾ BIẾN, CÁC SẢN PHẨM BẰNG LÔNG VŨ HOẶC LÔNG TƠ; HOA NHÂN TẠO; CÁC SẢN PHẨM LÀM TỪ TÓC NGƯỜI",
+    "titleEn": "CHAPTER 67: PREPARED FEATHERS AND DOWN AND ARTICLES MADE OF FEATHERS OR OF DOWN; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 68,
+    "titleVi": "CHƯƠNG 68: SẢN PHẨM LÀM BẰNG ĐÁ, THẠCH CAO, XI MĂNG, AMIĂNG, MICA HOẶC CÁC VẬT LIỆU TƯƠNG TỰ",
+    "titleEn": "CHAPTER 68: ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 69,
+    "titleVi": "CHƯƠNG 69: ĐỒ GỐM, SỨ",
+    "titleEn": "CHAPTER 69: CERAMIC PRODUCTS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 70,
+    "titleVi": "CHƯƠNG 70: THỦY TINH VÀ CÁC SẢN PHẨM BẰNG THỦY TINH",
+    "titleEn": "CHAPTER 70: GLASS AND GLASSWARE",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 71,
+    "titleVi": "CHƯƠNG 71: NGỌC TRAI TỰ NHIÊN HOẶC NUÔI CẤY, ĐÁ QUÝ HOẶC ĐÁ BÁN QUÝ, KIM LOẠI QUÝ, KIM LOẠI ĐƯỢC DÁT PHỦ KIM LOẠI QUÝ, VÀ CÁC SẢN PHẨM CỦA CHÚNG; ĐỒ TRANG SỨC LÀM BẰNG CHẤT LIỆU KHÁC; TIỀN KIM LOẠI",
+    "titleEn": "CHAPTER 71: NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 72,
+    "titleVi": "CHƯƠNG 72: SẮT VÀ THÉP",
+    "titleEn": "CHAPTER 72: IRON AND STEEL",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 73,
+    "titleVi": "CHƯƠNG 73: CÁC SẢN PHẨM BẰNG SẮT HOẶC THÉP",
+    "titleEn": "CHAPTER 73: ARTICLES OF IRON OR STEEL",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 74,
+    "titleVi": "CHƯƠNG 74: ĐỒNG VÀ CÁC SẢN PHẨM BẰNG ĐỒNG",
+    "titleEn": "CHAPTER 74: COPPER AND ARTICLES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 75,
+    "titleVi": "CHƯƠNG 75: NIKEN VÀ CÁC SẢN PHẨM BẰNG NIKEN",
+    "titleEn": "CHAPTER 75: NICKEL AND ARTICLES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 76,
+    "titleVi": "CHƯƠNG 76: NHÔM VÀ CÁC SẢN PHẨM BẰNG NHÔM",
+    "titleEn": "CHAPTER 76: ALUMINIUM AND ARTICLES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 77,
+    "titleVi": "CHƯƠNG 77: (DỰ PHÒNG ĐỂ SỬ DỤNG CHO CÁC MỤC ĐÍCH KHÁC TRONG HỆ THỐNG HÀI HOÀ)",
+    "titleEn": "CHAPTER 77: (RESERVED FOR POSSIBLE FUTURE USE IN THE HARMONIZED SYSTEM)",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 78,
+    "titleVi": "CHƯƠNG 78: CHÌ VÀ CÁC SẢN PHẨM BẰNG CHÌ",
+    "titleEn": "CHAPTER 78: LEAD AND ARTICLES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 79,
+    "titleVi": "CHƯƠNG 79: KẼM VÀ CÁC SẢN PHẨM BẰNG KẼM",
+    "titleEn": "CHAPTER 79: ZINC AND ARTICLES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 80,
+    "titleVi": "CHƯƠNG 80: THIẾC VÀ CÁC SẢN PHẨM BẰNG THIẾC",
+    "titleEn": "CHAPTER 80: TIN AND ARTICLES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 81,
+    "titleVi": "CHƯƠNG 81: KIM LOẠI CƠ BẢN KHÁC; GỐM KIM LOẠI; CÁC SẢN PHẨM CỦA CHÚNG",
+    "titleEn": "CHAPTER 81: OTHER BASE METALS; CERMETS; ARTICLES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 82,
+    "titleVi": "CHƯƠNG 82: DỤNG CỤ, ĐỒ NGHỀ, DAO, KÉO, BỘ ĐỒ ĂN LÀM TỪ KIM LOẠI CƠ BẢN; CÁC BỘ PHẬN CỦA CHÚNG LÀM TỪ KIM LOẠI CƠ BẢN",
+    "titleEn": "CHAPTER 82: TOOLS, IMPLEMENTS, CUTLERY, SPOONS AND FORKS, OF BASE METAL; PARTS THEREOF OF BASE METAL",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 83,
+    "titleVi": "CHƯƠNG 83: HÀNG TẠP HÓA LÀM TỪ KIM LOẠI CƠ BẢN",
+    "titleEn": "CHAPTER 83: MISCELLANEOUS ARTICLES OF BASE METAL",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 84,
+    "titleVi": "CHƯƠNG 84: LÒ PHẢN ỨNG HẠT NHÂN, NỒI HƠI, MÁY VÀ THIẾT BỊ CƠ KHÍ; CÁC BỘ PHẬN CỦA CHÚNG",
+    "titleEn": "CHAPTER 84: NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 85,
+    "titleVi": "CHƯƠNG 85: MÁY ĐIỆN VÀ THIẾT BỊ ĐIỆN VÀ CÁC BỘ PHẬN CỦA CHÚNG; MÁY GHI VÀ TÁI TẠO ÂM THANH, MÁY GHI VÀ TÁI TẠO HÌNH ẢNH VÀ ÂM THANH TRUYỀN HÌNH, BỘ PHẬN VÀ PHỤ KIỆN CỦA CÁC LOẠI MÁY TRÊN",
+    "titleEn": "CHAPTER 85: ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 86,
+    "titleVi": "CHƯƠNG 86: ĐẦU MÁY, CÁC PHƯƠNG TIỆN DI CHUYỂN TRÊN ĐƯỜNG SẮT HOẶC ĐƯỜNG TÀU ĐIỆN VÀ CÁC BỘ PHẬN CỦA CHÚNG; CÁC BỘ PHẬN CỐ ĐỊNH VÀ GHÉP NỐI ĐƯỜNG RAY ĐƯỜNG SẮT HOẶC TÀU ĐIỆN VÀ BỘ PHẬN CỦA CHÚNG; THIẾT BỊ TÍN HIỆU GIAO THÔNG BẰNG CƠ KHÍ (KỂ CẢ CƠ ĐIỆN) CÁC LOẠI",
+    "titleEn": "CHAPTER 86: RAILWAY OR TRAMWAY LOCOMOTIVES, ROLLING-STOCK AND PARTS THEREOF; RAILWAY OR TRAMWAY TRACK FIXTURES AND FITTINGS AND PARTS THEREOF; MECHANICAL (INCLUDING ELECTRO-MECHANICAL) TRAFFIC SIGNALLING EQUIPMENT OF ALL KINDS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 87,
+    "titleVi": "CHƯƠNG 87: XE TRỪ PHƯƠNG TIỆN CHẠY TRÊN ĐƯỜNG SẮT HOẶC ĐƯỜNG TÀU ĐIỆN, VÀ CÁC BỘ PHẬN VÀ PHỤ KIỆN CỦA CHÚNG",
+    "titleEn": "CHAPTER 87: VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING-STOCK, AND PARTS AND ACCESSORIES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 88,
+    "titleVi": "CHƯƠNG 88: PHƯƠNG TIỆN BAY, TÀU VŨ TRỤ VÀ CÁC BỘ PHẬN CỦA CHÚNG",
+    "titleEn": "CHAPTER 88: AIRCRAFT, SPACECRAFT, AND PARTS THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 89,
+    "titleVi": "CHƯƠNG 89: TÀU THỦY, THUYỀN VÀ CÁC KẾT CẤU NỔI",
+    "titleEn": "CHAPTER 89: SHIPS, BOATS AND FLOATING STRUCTURES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 90,
+    "titleVi": "CHƯƠNG 90: DỤNG CỤ VÀ THIẾT BỊ QUANG HỌC, NHIẾP ẢNH, ĐIỆN ẢNH, ĐO LƯỜNG, KIỂM TRA, CHÍNH XÁC, Y TẾ HOẶC PHẪU THUẬT; CÁC BỘ PHẬN VÀ PHỤ KIỆN CỦA CHÚNG",
+    "titleEn": "CHAPTER 90: OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; PARTS AND ACCESSORIES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 91,
+    "titleVi": "CHƯƠNG 91: ĐỒNG HỒ THỜI GIAN, ĐỒNG HỒ CÁ NHÂN VÀ CÁC BỘ PHẬN CỦA CHÚNG",
+    "titleEn": "CHAPTER 91: CLOCKS AND WATCHES AND PARTS THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 92,
+    "titleVi": "CHƯƠNG 92: NHẠC CỤ; CÁC BỘ PHẬN VÀ PHỤ KIỆN CỦA CHÚNG",
+    "titleEn": "CHAPTER 92: MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES OF SUCH ARTICLES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 93,
+    "titleVi": "CHƯƠNG 93: VŨ KHÍ VÀ ĐẠN; CÁC BỘ PHẬN VÀ PHỤ KIỆN CỦA CHÚNG",
+    "titleEn": "CHAPTER 93: ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 94,
+    "titleVi": "CHƯƠNG 94: ĐỒ NỘI THẤT; BỘ ĐỒ GIƯỜNG, ĐỆM, KHUNG ĐỆM, NỆM VÀ CÁC ĐỒ DÙNG NHỒI TƯƠNG TỰ; ĐÈN (LUMINAIRES) VÀ BỘ ĐÈN, CHƯA ĐƯỢC CHI TIẾT HOẶC GHI Ở NƠI KHÁC; BIỂN HIỆU ĐƯỢC CHIẾU SÁNG, BIỂN ĐỀ TÊN ĐƯỢC CHIẾU SÁNG VÀ CÁC LOẠI TƯƠNG TỰ; NHÀ LẮP GHÉP",
+    "titleEn": "CHAPTER 94: FURNITURE; BEDDING, MATTRESSES, MATTRESS SUPPORTS, CUSHIONS AND SIMILAR STUFFED FURNISHINGS; LUMINAIRES AND LIGHTING FITTINGS, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAME-PLATES AND THE LIKE; PREFABRICATED BUILDINGS",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 95,
+    "titleVi": "CHƯƠNG 95: ĐỒ CHƠI, THIẾT BỊ TRÒ CHƠI VÀ DỤNG CỤ THỂ THAO; CÁC BỘ PHẬN VÀ PHỤ KIỆN CỦA CHÚNG",
+    "titleEn": "CHAPTER 95: TOYS, GAMES AND SPORTS REQUISITES; PARTS AND ACCESSORIES THEREOF",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 96,
+    "titleVi": "CHƯƠNG 96: CÁC MẶT HÀNG KHÁC",
+    "titleEn": "CHAPTER 96: MISCELLANEOUS MANUFACTURED ARTICLES",
+    "hasEN": true,
+    "hasSEN": true
+  },
+  {
+    "chapterNumber": 97,
+    "titleVi": "CHƯƠNG 97: CÁC TÁC PHẨM NGHỆ THUẬT, ĐỒ SƯU TẦM VÀ ĐỒ CỔ",
+    "titleEn": "CHAPTER 97: WORKS OF ART, COLLECTORS’ PIECES AND ANTIQUES",
+    "hasEN": true,
+    "hasSEN": true
+  }
+]
