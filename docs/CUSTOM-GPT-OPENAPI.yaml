@@ -1,15 +1,18 @@
-openapi: 3.1.0
+openapi: 3.0.3
 info:
   title: HSTC Vietnamese HS Code API
   description: API for searching Vietnamese HS Code Explanatory Notes and Supplementary Explanatory Notes
   version: 1.0.0
+  contact:
+    name: HSTC API Support
+    url: https://tracuuhs.com/api/docs
 
 servers:
-  - url: https://hstc-api.vercel.app
+  - url: https://hstc-api.vercel.app/api/v1
     description: Production server
 
 paths:
-  /api/v1/search:
+  /search:
     post:
       operationId: searchHSNotes
       summary: Search HS Code Explanatory Notes
@@ -51,6 +54,7 @@ paths:
                   description: Maximum results to return
               required:
                 - keyword
+      security: []
       responses:
         '200':
           description: Search results with HS code matches
@@ -93,7 +97,7 @@ paths:
         '429':
           description: Rate limit exceeded
 
-  /api/v1/headings/{headingCode}:
+  /headings/{headingCode}:
     get:
       operationId: getHeadingDetails
       summary: Get detailed notes for a specific HS heading
@@ -114,6 +118,7 @@ paths:
             enum: [vi, en]
             default: vi
           description: Response language - "vi" for Vietnamese, "en" for English
+      security: []
       responses:
         '200':
           description: Heading details with full EN and SEN notes
@@ -147,7 +152,7 @@ paths:
         '404':
           description: Heading not found
 
-  /api/v1/chapters:
+  /chapters:
     get:
       operationId: listChapters
       summary: List all available chapters
@@ -160,6 +165,7 @@ paths:
             enum: [vi, en]
             default: vi
           description: Response language
+      security: []
       responses:
         '200':
           description: List of all chapters
@@ -194,7 +200,7 @@ paths:
                               type: boolean
                               description: Whether Supplementary Notes are available
 
-  /api/v1/chapters/{chapterNumber}:
+  /chapters/{chapterNumber}:
     get:
       operationId: getChapterDetails
       summary: Get chapter details
@@ -223,6 +229,7 @@ paths:
             enum: [vi, en]
             default: vi
           description: Response language
+      security: []
       responses:
         '200':
           description: Chapter details with full notes
