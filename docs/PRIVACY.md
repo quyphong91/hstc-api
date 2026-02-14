@@ -91,7 +91,7 @@ Since we do not collect or store personal data:
 For questions about this privacy policy:
 
 - **Website:** [https://tracuuhs.com](https://tracuuhs.com)
-- **Email:** quyphong91@gmail.com
+- **Email:** hscodetracuu@gmail.com
 - **GitHub Issues:** [https://github.com/quyphong91/hstc-api/issues](https://github.com/quyphong91/hstc-api/issues)
 
 ## Compliance
