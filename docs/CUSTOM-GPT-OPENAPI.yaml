@@ -237,6 +237,7 @@ paths:
           description: Chapter not found
 
 components:
+  schemas: {}
   securitySchemes:
     BearerAuth:
       type: http
