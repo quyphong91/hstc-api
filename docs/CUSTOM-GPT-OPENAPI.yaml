@@ -1,0 +1,243 @@
+openapi: 3.1.0
+info:
+  title: HSTC Vietnamese HS Code API
+  description: API for searching Vietnamese HS Code Explanatory Notes and Supplementary Explanatory Notes
+  version: 1.0.0
+
+servers:
+  - url: https://hstc-api.vercel.app
+    description: Production server
+
+paths:
+  /api/v1/search:
+    post:
+      operationId: searchHSNotes
+      summary: Search HS Code Explanatory Notes
+      description: Search across EN (Explanatory Notes) and SEN (Supplementary Explanatory Notes) for keywords with optional material and function filters
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                keyword:
+                  type: string
+                  description: Search keyword in Vietnamese or English
+                  example: "plastic bottles"
+                language:
+                  type: string
+                  enum: [vi, en]
+                  default: vi
+                  description: Search language - use "vi" for Vietnamese queries, "en" for English queries
+                matchType:
+                  type: string
+                  enum: [tokens, exact]
+                  default: tokens
+                  description: Match strategy - "tokens" (flexible, default) or "exact" (strict phrase matching)
+                material:
+                  type: string
+                  description: Optional material/composition filter (e.g., "plastic", "nhựa", "steel", "thép")
+                  example: "plastic"
+                functionFeature:
+                  type: string
+                  description: Optional function/usage filter (e.g., "water storage", "đựng nước")
+                  example: "water storage"
+                maxResults:
+                  type: integer
+                  default: 20
+                  minimum: 1
+                  maximum: 100
+                  description: Maximum results to return
+              required:
+                - keyword
+      responses:
+        '200':
+          description: Search results with HS code matches
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                  data:
+                    type: object
+                    properties:
+                      matches:
+                        type: array
+                        items:
+                          type: object
+                          properties:
+                            hsCode:
+                              type: string
+                              description: HS Code or Heading (4-digit or longer)
+                            source:
+                              type: string
+                              enum: [en, sen]
+                              description: Source of the match - "en" for Explanatory Notes, "sen" for Supplementary Notes
+                            snippet:
+                              type: string
+                              description: Relevant text excerpt (~150 chars) showing the match
+                            chapterNumber:
+                              type: integer
+                              description: Chapter number (1-97)
+                      totalMatches:
+                        type: integer
+                        description: Total number of matches found
+                      query:
+                        type: object
+                        description: Echo of the search query
+        '400':
+          description: Bad request (validation error)
+        '429':
+          description: Rate limit exceeded
+
+  /api/v1/headings/{headingCode}:
+    get:
+      operationId: getHeadingDetails
+      summary: Get detailed notes for a specific HS heading
+      description: Get comprehensive Explanatory Notes and Supplementary Notes for a specific 4-digit HS heading
+      parameters:
+        - name: headingCode
+          in: path
+          required: true
+          schema:
+            type: string
+            pattern: '^\d{4}$'
+          description: 4-digit HS heading code (e.g., "0401", "8471")
+          example: "0401"
+        - name: language
+          in: query
+          schema:
+            type: string
+            enum: [vi, en]
+            default: vi
+          description: Response language - "vi" for Vietnamese, "en" for English
+      responses:
+        '200':
+          description: Heading details with full EN and SEN notes
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                  data:
+                    type: object
+                    properties:
+                      headingCode:
+                        type: string
+                      chapterNumber:
+                        type: integer
+                      title:
+                        type: object
+                        properties:
+                          vi:
+                            type: string
+                          en:
+                            type: string
+                      enNotes:
+                        type: array
+                        description: Explanatory Notes content
+                      senNotes:
+                        type: array
+                        description: Supplementary Explanatory Notes content
+        '404':
+          description: Heading not found
+
+  /api/v1/chapters:
+    get:
+      operationId: listChapters
+      summary: List all available chapters
+      description: Get a list of all 97 HS Code chapters with titles and metadata
+      parameters:
+        - name: language
+          in: query
+          schema:
+            type: string
+            enum: [vi, en]
+            default: vi
+          description: Response language
+      responses:
+        '200':
+          description: List of all chapters
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                  data:
+                    type: object
+                    properties:
+                      chapters:
+                        type: array
+                        items:
+                          type: object
+                          properties:
+                            chapterNumber:
+                              type: integer
+                            title:
+                              type: object
+                              properties:
+                                vi:
+                                  type: string
+                                en:
+                                  type: string
+                            hasEN:
+                              type: boolean
+                              description: Whether Explanatory Notes are available
+                            hasSEN:
+                              type: boolean
+                              description: Whether Supplementary Notes are available
+
+  /api/v1/chapters/{chapterNumber}:
+    get:
+      operationId: getChapterDetails
+      summary: Get chapter details
+      description: Get detailed Explanatory Notes and Supplementary Notes for a specific chapter
+      parameters:
+        - name: chapterNumber
+          in: path
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 97
+          description: Chapter number (1-97)
+          example: 4
+        - name: source
+          in: query
+          schema:
+            type: string
+            enum: [en, sen, both]
+            default: both
+          description: Data source - "en" for Explanatory Notes only, "sen" for Supplementary Notes only, "both" for all
+        - name: language
+          in: query
+          schema:
+            type: string
+            enum: [vi, en]
+            default: vi
+          description: Response language
+      responses:
+        '200':
+          description: Chapter details with full notes
+        '404':
+          description: Chapter not found
+
+components:
+  securitySchemes:
+    BearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: API Key
+      description: |
+        Optional API key for higher rate limits and usage tracking.
+        The API works without authentication (1000 requests/hour per IP).
+        With API key: 5000 requests/hour.
+
+        Note: This is completely optional - you can use the API without any authentication.
