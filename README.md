@@ -8,7 +8,7 @@
 
 ## 🌟 Features
 
-- 🔍 **Bilingual Search** - Search in Vietnamese or English across 28MB of Explanatory Notes
+- 🔍 **Bilingual Search** - Search in Vietnamese or English across comprehensive Explanatory Notes
 - 📚 **Comprehensive Data** - 97 chapters with EN (Explanatory Notes) and SEN (Supplementary Explanatory Notes)
 - 🚀 **Fast & Free** - Completely free with generous rate limits (1000/hour per IP)
 - 🔓 **Open Source** - MIT licensed, host it yourself or use our free hosted service
