@@ -1,7 +1,10 @@
 openapi: 3.1.0
 info:
   title: HSTC Vietnamese HS Code API
-  description: API for searching Vietnamese HS Code Explanatory Notes and Supplementary Explanatory Notes
+  description: |
+    API for searching Vietnamese HS Code Explanatory Notes and Supplementary Explanatory Notes.
+    Enables structured 3-step analysis (Bước 1: Chapter filtering, Bước 2: Note filtering, Bước 3: Subheading analysis)
+    for transparent HS code classification with full audit trail.
   version: 1.0.0
   contact:
     name: HSTC API Support
