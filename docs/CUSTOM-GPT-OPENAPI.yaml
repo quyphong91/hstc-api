@@ -8,7 +8,7 @@ info:
     url: https://tracuuhs.com/api/docs
 
 servers:
-  - url: https://hstc-api.vercel.app/api/v1
+  - url: https://api.tracuuhs.com/api/v1
     description: Production server
 
 paths:
