@@ -8,6 +8,7 @@
 import { Router, type Request, type Response } from 'express';
 import { searchNotesAdvanced } from '../utils/search.js';
 import type { SearchLanguage, SearchMatchType } from '../utils/types.js';
+import { logApiRequest } from '../utils/logger.js';
 
 export const searchRouter = Router();
 
@@ -95,6 +96,21 @@ searchRouter.post('/', (req: Request, res: Response) => {
     const limitedMatches = matches.slice(0, maxResults);
 
     const processingTime = Date.now() - startTime;
+
+    // Log request asynchronously (fire-and-forget)
+    const hsCodes = limitedMatches.map(m => m.hsCode).filter(Boolean);
+    logApiRequest({
+      keyword,
+      language,
+      matchType,
+      hsCodes,
+      totalMatches: matches.length,
+      processingTimeMs: processingTime,
+      hasResults: matches.length > 0,
+    }).catch(err => {
+      // Silent failure - don't break API response
+      console.error('Logging failed:', err);
+    });
 
     // Return results
     res.json({

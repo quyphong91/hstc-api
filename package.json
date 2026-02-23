@@ -10,7 +10,17 @@
     "start": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["hs-code", "vietnam", "api", "customs", "tariff", "harmonized-system", "explanatory-notes", "rest-api", "open-source"],
+  "keywords": [
+    "hs-code",
+    "vietnam",
+    "api",
+    "customs",
+    "tariff",
+    "harmonized-system",
+    "explanatory-notes",
+    "rest-api",
+    "open-source"
+  ],
   "author": "Quy Phong <quyphong91@gmail.com> (https://tracuuhs.com)",
   "license": "MIT",
   "repository": {
@@ -22,6 +32,7 @@
   },
   "homepage": "https://tracuuhs.com/api",
   "dependencies": {
+    "@supabase/supabase-js": "^2.97.0",
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
